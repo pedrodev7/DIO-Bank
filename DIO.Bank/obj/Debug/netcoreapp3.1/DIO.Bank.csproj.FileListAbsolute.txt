@@ -1,0 +1,14 @@
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\Pedro Henrique\source\repos\DIO.Bank\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
